@@ -1,4 +1,4 @@
-package com.ibe6.commom;
+package com.ibe6.common;
 
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
