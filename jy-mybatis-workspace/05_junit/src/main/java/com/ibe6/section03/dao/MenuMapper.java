@@ -15,5 +15,5 @@ public interface MenuMapper {
     int updateMenu(MenuDto menu);
     int deleteMenu(int code);
 
-    // ref nat null
+    // ref not null
 }
